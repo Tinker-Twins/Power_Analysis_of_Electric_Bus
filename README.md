@@ -41,7 +41,7 @@ Consider a front wheel driven electric bus travelling uphill a slope of 30&deg;.
   * Starting current is within safe limits.
 
 ## Inference
-Following points were inferred from the Analysis of Electric Bus assignment:
+Following points were inferred from the power analysis of electric bus:
 * **Loading the Bus:** Loading the bus refers to number of passengers aboard. As the number of passengers increased, the total mass of the system increased, which increased the gravitational force acting on the system. Thus, the load force and normal force, which are the resolved components of gravitational force, also increased. This caused increase in the motor force, and hence the power requirement also increased.
 * **Weather Condition:** As the weather conditions varied, the coefficient of friction changed. Since frictional force is directly proportional to the coefficient of friction, an increase in coefficient of friction caused an increase in the frictional force. This caused increase in the motor force, and hence the power requirement also increased.
 * **Wheel Radius:** Torque is directly proportional to the wheel radius while angular velocity is inversely proportional to the wheel radius. Hence an increase in wheel radius caused an increase in torque but a reduction in angular velocity (at the same rate). Thus, power requirement, which is product of the two remained constant.
