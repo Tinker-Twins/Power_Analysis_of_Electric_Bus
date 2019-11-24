@@ -1,6 +1,7 @@
 # Power Analysis of Electric Bus
 This repository contains the code snippets for the power analysis of an electrical bus under various loading scenarios, weather conditions and vehicle parameters.
 
+## Diagram
 ![Free-Body Diagram](Free_Body_Diagram.png)
 
 ## Problem Statement
@@ -16,6 +17,28 @@ Consider a front wheel driven electric bus travelling uphill a slope of 30&deg;.
 | **No Passengers**   | ![Weather Power Characteristics](/Results/Case_1_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_1_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 | **Half Passengers** | ![Weather Power Characteristics](/Results/Case_2_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_2_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 | **All Passengers**  | ![Weather Power Characteristics](/Results/Case_3_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_3_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
+
+* **Case 1: No Passengers**
+  * Power = 1876888.08 W
+  * Starting Current = 18.77 A
+  * Starting Torque = 228271.54 N-m
+  * Rated Current = 5.00 A
+  * Rated Torque = 60811.17 N-m
+  * Starting current is within safe limits.
+* **Case 2: Half Passengers**
+  * Power = 2093119.43 W
+  * Starting Current = 20.93 A
+  * Starting Torque = 283898.45 N-m
+  * Rated Current = 5.00 A
+  * Rated Torque = 67817.07 N-m
+  * Starting current is within safe limits.
+* **Case 3: All Passengers**
+  * Power = 2309350.77 W
+  * Starting Current = 23.09 A
+  * Starting Torque = 345584.94 N-m
+  * Rated Current = 5.00 A
+  * Rated Torque = 74822.97 N-m
+  * Starting current is within safe limits.
 
 ## Inference
 Following points were inferred from the Analysis of Electric Bus assignment:
