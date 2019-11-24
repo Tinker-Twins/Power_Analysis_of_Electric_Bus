@@ -11,10 +11,11 @@ Consider a front wheel driven electric bus travelling uphill a slope of 30&deg;.
 
 ## Results
 
-| **No Passengers**   | ![Weather Power Characteristics](/Results/Case_1_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_1_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
+| **Case** | **Weather - Power Characteristics** | **Wheel Radius - Power Characteristics** | **Speed - Power Characteristics** |
 | :------------------ | :------------------: | :------------------: | :------------------: |
-| **Half Passengers** | ![Weather Power Characteristics](/Results/Case_2_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_2_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
-| **All Passengers**  | ![Weather Power Characteristics](/Results/Case_3_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_3_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
+| **No Passengers**   | ![Weather Power Characteristics](/Results/Case_1_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_1_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
+| **Half Passengers** | ![Weather Power Characteristics](/Results/Case_2_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_2_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
+| **All Passengers**  | ![Weather Power Characteristics](/Results/Case_3_Weather_Power_Characteristics.png) | ![Wheel Radius Power Characteristics](/Results/Case_3_Wheel_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 
 ## Inference
 Following points were inferred from the Analysis of Electric Bus assignment:
