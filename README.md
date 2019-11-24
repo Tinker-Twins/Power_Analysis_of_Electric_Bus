@@ -11,11 +11,11 @@ Consider a front wheel driven electric bus travelling uphill a slope of 30&deg;.
 
 ## Results
 
-| **No Passengers**   | ![Weather Power Characteristics](/Results/Case_1_Weather_Power_Characteristics) | ![Radius Power Characteristics](/Results/Case_1_Radius_Power_Characteristics) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics) |
+| **No Passengers**   | ![Weather Power Characteristics](/Results/Case_1_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_1_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 | :------------------ | :------------------: | :------------------: | :------------------: |
-| **Half Passengers** | ![Weather Power Characteristics](/Results/Case_2_Weather_Power_Characteristics) | ![Radius Power Characteristics](/Results/Case_2_Radius_Power_Characteristics) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics) |
+| **Half Passengers** | ![Weather Power Characteristics](/Results/Case_2_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_2_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 | :------------------ | :------------------: | :------------------: | :------------------: |
-| **All Passengers**  | ![Weather Power Characteristics](/Results/Case_3_Weather_Power_Characteristics) | ![Radius Power Characteristics](/Results/Case_3_Radius_Power_Characteristics) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics) |
+| **All Passengers**  | ![Weather Power Characteristics](/Results/Case_3_Weather_Power_Characteristics.png) | ![Radius Power Characteristics](/Results/Case_3_Radius_Power_Characteristics.png) | ![Speed Power Characteristics](/Results/Case_1_Speed_Power_Characteristics.png) |
 
 ## Inference
 Following points were inferred from the Analysis of Electric Bus assignment:
